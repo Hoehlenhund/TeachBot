@@ -1,0 +1,10 @@
+{
+  "intents": [
+    {
+      "tag": "1",
+      "patterns": [
+        "Example"
+      ]
+    } 
+  ]
+}
